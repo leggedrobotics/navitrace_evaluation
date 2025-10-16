@@ -13,4 +13,4 @@ If you want to see how your model scores on the test set or want to submit your 
 
 ## Usage
 
-- Run the notebook `run_evaluation.ipynb`
+- Run the notebook `src/run_evaluation.ipynb`, e.g. with `jupyter lab src/run_evaluation.ipynb`
