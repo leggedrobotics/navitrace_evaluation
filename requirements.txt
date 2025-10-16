@@ -1,0 +1,11 @@
+datasets==4.1.1
+itables==2.5.2
+huggingface-hub==0.35.3
+jupyterlab==4.4.9
+openai==2.3.0
+pandas==2.3.3
+pillow==12.0.0
+tqdm==4.67.1
+numpy==1.26.4
+scipy==1.16.2
+scikit-image==0.25.2
